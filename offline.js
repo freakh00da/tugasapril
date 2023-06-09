@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1686313526,
+	"version": 1686317240,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,9 @@
 		"images/checklist-sheet0.png",
 		"images/pngwingcom20230609t4-sheet0.png",
 		"images/canvas.png",
+		"media/mixkit-retro-game-notification-212 (1).m4a",
+		"media/mixkit-retro-game-notification-212 (1).ogg",
+		"media/harvest_moon_back_to_nature_soundtrack_-_town_theme__extended__high_quality.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
