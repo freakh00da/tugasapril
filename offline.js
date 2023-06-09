@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1686260748,
+	"version": 1686313526,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,14 @@
 		"images/conv2-sheet0.png",
 		"images/conv3-sheet0.png",
 		"images/conv4-sheet0.png",
+		"images/cart-sheet0.png",
+		"images/pngwingcom20230609t-sheet0.png",
+		"images/pngwingcom20230609t2-sheet0.png",
+		"images/pngwingcom20230609t3-sheet0.png",
+		"images/catalogue-sheet0.png",
+		"images/checklist-sheet0.png",
+		"images/pngwingcom20230609t4-sheet0.png",
+		"images/canvas.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
